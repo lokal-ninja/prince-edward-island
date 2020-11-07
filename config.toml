@@ -1,0 +1,15 @@
+baseURL = "https://ca.shoogle.net/prince-edward-island"
+languageCode = "en-US"
+title = "Prince Edward Island"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "prince-edward-island"

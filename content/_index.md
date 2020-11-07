@@ -1,0 +1,1 @@
+Prince Edward Island (PEI) is a province of Canada and one of the three Maritime provinces. It is the smallest province of Canada in both land area and population, but the most densely populated. Part of the traditional lands of the Mi'kmaq, it was colonized by the British in the 1700s. It was federated into Canada as a province in 1873. Its capital is Charlottetown. (Wikipedia)
