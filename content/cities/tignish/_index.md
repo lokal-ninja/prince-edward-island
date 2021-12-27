@@ -1,6 +1,6 @@
 ---
 title: Tignish
 url: /tignish/
-latitude: 
-longitude: 
+latitude: 46.949
+longitude: -64.035
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PEI Crafts Council"
 url: /charlottetown/pei-crafts-council/
-shop: gift
+shop: Andenken
 ---

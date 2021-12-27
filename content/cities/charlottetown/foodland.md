@@ -1,5 +1,5 @@
 ---
 title: "Foodland"
 url: /charlottetown/foodland/
-shop: supermarket
+shop: Supermarkt
 ---

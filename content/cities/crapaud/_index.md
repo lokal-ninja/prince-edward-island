@@ -1,6 +1,6 @@
 ---
 title: Crapaud
 url: /crapaud/
-latitude: 46.2398387
-longitude: -63.4997392
+latitude: 46.24
+longitude: -63.5
 ---
