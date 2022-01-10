@@ -1,5 +1,5 @@
 ---
 title: "Beaton's Wholesale"
 url: /charlottetown/beatons-wholesale/
-shop: Großhandel
+shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /charlottetown/dollarama/
-shop: Kramladen
+shop: variety store
 ---

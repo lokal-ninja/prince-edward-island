@@ -1,5 +1,5 @@
 ---
 title: "Wilsons"
 url: /summerside/wilsons/
-shop: Lebensmittel
+shop: convenience
 ---
