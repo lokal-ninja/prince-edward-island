@@ -1,5 +1,5 @@
 ---
 title: convenience
 url: /convenience/
-icon: other
+icon: convenience
 ---
