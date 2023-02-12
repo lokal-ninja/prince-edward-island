@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
-url: /charlottetown/sobeys-2/
+url: /charlottetown/sobeys/
 shop: supermarket
 ---
