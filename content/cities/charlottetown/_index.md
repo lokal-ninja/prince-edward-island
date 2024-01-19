@@ -1,6 +1,6 @@
 ---
 title: Charlottetown
 url: /charlottetown/
-latitude: 46.235
-longitude: -63.129
+latitude: 46.247
+longitude: -63.124
 ---
