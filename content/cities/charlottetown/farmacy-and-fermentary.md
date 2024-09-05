@@ -1,5 +1,5 @@
 ---
 title: "Farmacy and Fermentary"
 url: /charlottetown/farmacy-and-fermentary/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

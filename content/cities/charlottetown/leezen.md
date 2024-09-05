@@ -1,5 +1,5 @@
 ---
 title: "Leezen"
 url: /charlottetown/leezen/
-shop: convenience
+shop: Lebensmittel
 ---

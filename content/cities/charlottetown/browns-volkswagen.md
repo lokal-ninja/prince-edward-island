@@ -1,5 +1,5 @@
 ---
 title: "Brown's Volkswagen"
 url: /charlottetown/browns-volkswagen/
-shop: car
+shop: Autohaus
 ---

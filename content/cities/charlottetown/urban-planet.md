@@ -1,5 +1,5 @@
 ---
 title: "Urban Planet"
 url: /charlottetown/urban-planet/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kent"
 url: /summerside/kent/
-shop: hardware
+shop: Eisenwaren
 ---

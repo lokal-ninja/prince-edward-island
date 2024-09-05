@@ -1,5 +1,5 @@
 ---
 title: "Riverview Country Market"
 url: /charlottetown/riverview-country-market/
-shop: greengrocer
+shop: Gemüse & Obst
 ---
