@@ -1,5 +1,5 @@
 ---
 title: "Boyle's Optical"
 url: /charlottetown/boyles-optical/
-shop: Optiker
+shop: optician
 ---

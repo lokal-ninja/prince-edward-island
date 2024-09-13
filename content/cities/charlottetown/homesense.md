@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /charlottetown/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

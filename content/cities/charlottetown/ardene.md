@@ -1,5 +1,5 @@
 ---
 title: "Ardene"
 url: /charlottetown/ardene/
-shop: Kleidung
+shop: clothes
 ---

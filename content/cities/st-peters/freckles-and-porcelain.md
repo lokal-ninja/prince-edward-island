@@ -1,5 +1,5 @@
 ---
 title: "Freckles and Porcelain"
 url: /st-peters/freckles-and-porcelain/
-shop: Andenken
+shop: gift
 ---

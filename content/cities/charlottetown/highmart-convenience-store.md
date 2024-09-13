@@ -1,5 +1,5 @@
 ---
 title: "HighMart Convenience Store"
 url: /charlottetown/highmart-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

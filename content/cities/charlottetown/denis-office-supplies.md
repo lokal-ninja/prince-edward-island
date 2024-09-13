@@ -1,5 +1,5 @@
 ---
 title: "Denis Office Supplies"
 url: /charlottetown/denis-office-supplies/
-shop: Schreibwaren
+shop: office supplies
 ---

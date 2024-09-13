@@ -1,5 +1,5 @@
 ---
 title: "Centennial Nissan"
 url: /charlottetown/centennial-nissan/
-shop: Autohaus
+shop: car
 ---

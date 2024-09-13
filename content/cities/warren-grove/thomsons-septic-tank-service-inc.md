@@ -1,5 +1,5 @@
 ---
 title: "Thomson's Septic Tank Service Inc"
 url: /warren-grove/thomsons-septic-tank-service-inc/
-shop: Allgemein
+shop: shop
 ---

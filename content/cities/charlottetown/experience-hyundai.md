@@ -1,5 +1,5 @@
 ---
 title: "Experience Hyundai"
 url: /charlottetown/experience-hyundai/
-shop: Autohaus
+shop: car
 ---

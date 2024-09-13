@@ -1,5 +1,5 @@
 ---
 title: "Juice Co"
 url: /charlottetown/juice-co/
-shop: Getränke
+shop: beverages
 ---

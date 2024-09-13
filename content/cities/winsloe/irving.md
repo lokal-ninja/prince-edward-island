@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /winsloe/irving/
-shop: Lebensmittel
+shop: convenience
 ---

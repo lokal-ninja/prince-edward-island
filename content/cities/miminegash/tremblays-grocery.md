@@ -1,5 +1,5 @@
 ---
 title: "Tremblay's Grocery"
 url: /miminegash/tremblays-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

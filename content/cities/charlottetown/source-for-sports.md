@@ -1,5 +1,5 @@
 ---
 title: "Source for Sports"
 url: /charlottetown/source-for-sports/
-shop: Sport
+shop: sports
 ---

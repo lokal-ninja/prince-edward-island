@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /summerside/dollarama/
-shop: Kramladen
+shop: variety store
 ---

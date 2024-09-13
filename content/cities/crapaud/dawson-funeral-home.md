@@ -1,5 +1,5 @@
 ---
 title: "Dawson Funeral Home"
 url: /crapaud/dawson-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Discounters"
 url: /charlottetown/discounters/
-shop: Kramladen
+shop: variety store
 ---
