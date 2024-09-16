@@ -1,11 +1,11 @@
 id: 389410100
-type: way
+type: node
 latitude: 46.24712
 longitude: -63.12564
 postcode: ""
 city: Charlottetown
-street: "Mount Edward Road"
-housenumber: 13
+street: Mount Edward Road
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

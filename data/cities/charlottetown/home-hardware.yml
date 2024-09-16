@@ -1,11 +1,11 @@
 id: 455114302
-type: way
+type: node
 latitude: 46.25613
 longitude: -63.1214
 postcode: ""
 city: Charlottetown
-street: "St. Peters Road"
-housenumber: 115
+street: St. Peters Road
+housenumber: "115"
 phone: ""
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/32007"
+website: https://www.homehardware.ca/en/store/32007

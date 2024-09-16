@@ -1,11 +1,11 @@
 id: 251213730
-type: way
+type: node
 latitude: 46.23255
 longitude: -63.12388
 postcode: ""
 city: Charlottetown
-street: "Water Street"
-housenumber: 98
+street: Water Street
+housenumber: "98"
 phone: ""
 opening_hours: ""
 website: ""

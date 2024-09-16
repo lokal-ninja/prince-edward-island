@@ -1,11 +1,11 @@
 id: 701097212
-type: way
+type: node
 latitude: 46.26897
 longitude: -63.1127
 postcode: ""
 city: Charlottetown
-street: "St. Peters Road"
-housenumber: 266
+street: St. Peters Road
+housenumber: "266"
 phone: ""
 opening_hours: ""
 website: ""

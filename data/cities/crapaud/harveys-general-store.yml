@@ -1,11 +1,11 @@
 id: 673394316
-type: way
+type: node
 latitude: 46.23981
 longitude: -63.50006
-postcode: "C0A 1J0"
+postcode: C0A 1J0
 city: Crapaud
-street: "Route 13"
-housenumber: 22
-phone: "+1-902-658-2776"
+street: Route 13
+housenumber: "22"
+phone: +1-902-658-2776
 opening_hours: ""
 website: ""

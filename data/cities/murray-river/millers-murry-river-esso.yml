@@ -1,11 +1,11 @@
 id: 361790173
-type: way
+type: node
 latitude: 46.01279
 longitude: -62.61006
-postcode: "C0A 1W0"
+postcode: C0A 1W0
 city: Murray River
-street: "Main Streat"
-housenumber: 9440
-phone: "+1-902-962-2707"
+street: Main Streat
+housenumber: "9440"
+phone: +1-902-962-2707
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-murrayriver-pe-esso-200303638"
+website: https://www.esso.ca/en-ca/find-station/esso-murrayriver-pe-esso-200303638

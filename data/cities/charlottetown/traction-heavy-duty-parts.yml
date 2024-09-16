@@ -1,11 +1,11 @@
 id: 695948062
-type: way
+type: node
 latitude: 46.28092
 longitude: -63.15123
 postcode: ""
 city: Charlottetown
-street: "Sherwood Road"
-housenumber: 174
+street: Sherwood Road
+housenumber: "174"
 phone: ""
 opening_hours: ""
 website: ""

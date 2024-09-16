@@ -1,11 +1,11 @@
 id: 422497523
-type: way
+type: node
 latitude: 46.27013
 longitude: -63.15017
 postcode: ""
 city: Charlottetown
-street: "St. Dunstan Street"
-housenumber: 15
+street: St. Dunstan Street
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 12:00-17:00"
-website: "https://www.princessauto.com/"
+opening_hours: Mo-Sa 08:00-21:00; Su 12:00-17:00
+website: https://www.princessauto.com/

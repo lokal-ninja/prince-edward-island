@@ -1,11 +1,11 @@
 id: 181528207
-type: way
+type: node
 latitude: 46.41176
 longitude: -63.78418
 postcode: ""
 city: Summerside
-street: "Granville Street"
-housenumber: 454
+street: Granville Street
+housenumber: "454"
 phone: ""
 opening_hours: ""
 website: ""

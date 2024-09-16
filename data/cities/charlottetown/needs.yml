@@ -1,11 +1,11 @@
 id: 388739210
-type: way
+type: node
 latitude: 46.24031
 longitude: -63.12532
 postcode: ""
 city: Charlottetown
-street: "Euston Street"
-housenumber: 230
+street: Euston Street
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.23554
 longitude: -63.12897
 postcode: ""
 city: Charlottetown
-street: "Kent Street"
-housenumber: 111
-phone: "+1 902 566 4260"
-opening_hours: "Mo-Fr 08:30-17:30; Sa-Su off"
-website: "http://www.denis.ca"
+street: Kent Street
+housenumber: "111"
+phone: +1 902 566 4260
+opening_hours: Mo-Fr 08:30-17:30; Sa-Su off
+website: http://www.denis.ca

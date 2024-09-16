@@ -1,11 +1,11 @@
 id: 673396286
-type: way
+type: node
 latitude: 46.2396
 longitude: -63.4993
 postcode: ""
 city: Crapaud
-street: "Route 13"
-housenumber: 32
+street: Route 13
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "http://www.dawsonfh.com/"
+website: http://www.dawsonfh.com/

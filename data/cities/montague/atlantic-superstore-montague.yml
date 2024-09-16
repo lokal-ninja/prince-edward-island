@@ -1,11 +1,11 @@
 id: 831360294
-type: way
+type: node
 latitude: 46.17255
 longitude: -62.65277
-postcode: "C0A 1R0"
+postcode: C0A 1R0
 city: Montague
-street: "Main Street"
-housenumber: 509
+street: Main Street
+housenumber: "509"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1219077367
-type: way
+type: node
 latitude: 46.41493
 longitude: -63.78471
 postcode: ""
 city: Summerside
-street: "Walker Avenue"
-housenumber: 110
+street: Walker Avenue
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

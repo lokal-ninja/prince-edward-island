@@ -1,11 +1,11 @@
 id: 547033636
-type: way
+type: node
 latitude: 46.70751
 longitude: -64.22467
-postcode: "C0B 1V0"
+postcode: C0B 1V0
 city: O'Leary
-street: "Main Street"
-housenumber: 527
+street: Main Street
+housenumber: "527"
 phone: ""
 opening_hours: ""
 website: ""

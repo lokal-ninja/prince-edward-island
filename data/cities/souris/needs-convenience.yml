@@ -1,11 +1,11 @@
 id: 850939516
-type: way
+type: node
 latitude: 46.35546
 longitude: -62.25589
-postcode: "C0A 2B0"
+postcode: C0A 2B0
 city: Souris
-street: "Main Street"
-housenumber: 63
-phone: "+1-902-687-2043"
-opening_hours: "24/7"
-website: "https://www.irvingoil.com/location/irving-oil-109"
+street: Main Street
+housenumber: "63"
+phone: +1-902-687-2043
+opening_hours: 24/7
+website: https://www.irvingoil.com/location/irving-oil-109

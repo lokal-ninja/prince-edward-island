@@ -1,11 +1,11 @@
 id: 425616387
-type: way
+type: node
 latitude: 46.24106
 longitude: -63.13215
 postcode: ""
 city: Charlottetown
-street: "University Avenue"
-housenumber: 299
+street: University Avenue
+housenumber: "299"
 phone: ""
 opening_hours: ""
 website: ""

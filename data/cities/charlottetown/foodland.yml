@@ -1,11 +1,11 @@
 id: 460369444
-type: way
+type: node
 latitude: 46.25606
 longitude: -63.11391
 postcode: ""
 city: Charlottetown
-street: "Walker Drive"
-housenumber: 3
-phone: "+1-902-892-0238"
-opening_hours: "Mo-Sa 8:00-21:00; Su 12:00-17:00"
-website: "https://atlantic.foodland.ca/stores/foodland-charlottetown/"
+street: Walker Drive
+housenumber: "3"
+phone: +1-902-892-0238
+opening_hours: Mo-Sa 8:00-21:00; Su 12:00-17:00
+website: https://atlantic.foodland.ca/stores/foodland-charlottetown/

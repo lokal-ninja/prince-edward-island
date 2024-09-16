@@ -1,11 +1,11 @@
 id: 470328504
-type: way
+type: node
 latitude: 46.26965
 longitude: -63.14612
 postcode: ""
 city: Charlottetown
-street: "Babineau Avenue"
-housenumber: 20
-phone: "+1-902-892-8584"
-opening_hours: "Mo-Sa 08:00-21:00; Su 12:00-18:00"
-website: "https://www.canadiantire.ca/en/store-details/pe/charlottetown-pei.store.html"
+street: Babineau Avenue
+housenumber: "20"
+phone: +1-902-892-8584
+opening_hours: Mo-Sa 08:00-21:00; Su 12:00-18:00
+website: https://www.canadiantire.ca/en/store-details/pe/charlottetown-pei.store.html

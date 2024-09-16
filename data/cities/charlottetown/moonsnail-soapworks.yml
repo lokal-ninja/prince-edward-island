@@ -1,11 +1,11 @@
 id: 256320302
-type: way
+type: node
 latitude: 46.23246
 longitude: -63.12435
 postcode: ""
 city: Charlottetown
-street: "Water Street"
-housenumber: 85
+street: Water Street
+housenumber: "85"
 phone: ""
 opening_hours: ""
-website: "https://www.moonsnailsoapworks.com/"
+website: https://www.moonsnailsoapworks.com/

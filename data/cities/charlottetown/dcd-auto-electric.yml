@@ -1,11 +1,11 @@
 id: 399990746
-type: way
+type: node
 latitude: 46.24525
 longitude: -63.12254
 postcode: ""
 city: Charlottetown
-street: "Belmont Street"
-housenumber: 37
+street: Belmont Street
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

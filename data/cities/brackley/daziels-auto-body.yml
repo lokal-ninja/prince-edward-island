@@ -1,11 +1,11 @@
 id: 442472210
-type: way
+type: node
 latitude: 46.29445
 longitude: -63.14138
 postcode: ""
 city: Brackley
-street: "Brackley Point Road"
-housenumber: 441
+street: Brackley Point Road
+housenumber: "441"
 phone: ""
 opening_hours: ""
 website: ""

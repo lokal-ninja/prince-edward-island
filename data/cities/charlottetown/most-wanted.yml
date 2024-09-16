@@ -1,11 +1,11 @@
 id: 255701223
-type: way
+type: node
 latitude: 46.2462
 longitude: -63.13138
 postcode: ""
 city: Charlottetown
-street: "Allen Street"
-housenumber: 51
+street: Allen Street
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 389410102
-type: way
+type: node
 latitude: 46.24727
 longitude: -63.1261
-postcode: "C1A 8C4"
+postcode: C1A 8C4
 city: Charlottetown
-street: "Allen Street"
-housenumber: 78
-phone: "+1-902-894-4069"
+street: Allen Street
+housenumber: "78"
+phone: +1-902-894-4069
 opening_hours: ""
-website: "https://www.discoverkia.com"
+website: https://www.discoverkia.com

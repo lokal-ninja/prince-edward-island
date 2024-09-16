@@ -2,10 +2,10 @@ id: 11365335284
 type: node
 latitude: 46.39139
 longitude: -63.79095
-postcode: "C1N1B6"
+postcode: C1N1B6
 city: Summerside
-street: "Water Street"
-housenumber: 250
+street: Water Street
+housenumber: "250"
 phone: ""
-opening_hours: "Sa 09:00-13:00"
-website: "https://www.facebook.com/www.jlfarms.ca"
+opening_hours: Sa 09:00-13:00
+website: https://www.facebook.com/www.jlfarms.ca

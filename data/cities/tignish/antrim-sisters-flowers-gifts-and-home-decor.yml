@@ -1,11 +1,11 @@
 id: 711851781
-type: way
+type: node
 latitude: 46.94931
 longitude: -64.0355
 postcode: ""
 city: Tignish
-street: "Phillip Street"
-housenumber: 217
+street: Phillip Street
+housenumber: "217"
 phone: ""
 opening_hours: ""
 website: ""

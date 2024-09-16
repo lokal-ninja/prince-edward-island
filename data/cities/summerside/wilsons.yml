@@ -1,11 +1,11 @@
 id: 547321241
-type: way
+type: node
 latitude: 46.39301
 longitude: -63.77016
-postcode: "C1N 4H7"
+postcode: C1N 4H7
 city: Summerside
-street: "Water Street East"
-housenumber: 612
-phone: "+1-902-888-3300"
+street: Water Street East
+housenumber: "612"
+phone: +1-902-888-3300
 opening_hours: ""
 website: ""

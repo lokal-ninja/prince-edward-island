@@ -1,11 +1,11 @@
 id: 701204254
-type: way
+type: node
 latitude: 46.26272
 longitude: -63.16816
 postcode: ""
 city: Charlottetown
-street: "Upton Road"
-housenumber: 2
+street: Upton Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.centennialnissanofcharlottetown.com/en-CA/home"
+website: https://www.centennialnissanofcharlottetown.com/en-CA/home

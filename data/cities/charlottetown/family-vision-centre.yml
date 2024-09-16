@@ -1,11 +1,11 @@
 id: 255449610
-type: way
+type: node
 latitude: 46.23316
 longitude: -63.12942
 postcode: ""
 city: Charlottetown
-street: "Pownal Street"
-housenumber: 111
+street: Pownal Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""
