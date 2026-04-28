@@ -1,6 +1,6 @@
 ---
 title: Cornwall
 url: /cornwall/
-latitude: 46.227
-longitude: -63.218
+latitude: 46.226
+longitude: -63.219
 ---
