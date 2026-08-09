@@ -1,6 +1,6 @@
 ---
 title: Souris
 url: /souris/
-latitude: 46.356
-longitude: -62.26
+latitude: 46.354
+longitude: -62.245
 ---
