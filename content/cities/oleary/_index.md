@@ -1,6 +1,6 @@
 ---
 title: O'Leary
 url: /oleary/
-latitude: 46.707
-longitude: -64.226
+latitude: 46.708
+longitude: -64.225
 ---
